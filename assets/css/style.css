@@ -1,0 +1,28 @@
+body {
+    background: red;
+}
+
+.wrapper {
+    width: 980px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 50px;
+}
+
+header {
+    background-color: white;
+    height: 300px;
+}
+
+main {
+    background-color: blue;
+    padding: 20 px;
+}
+
+footer {
+    background-color: goldenrod;
+    padding: 20px;
+}
